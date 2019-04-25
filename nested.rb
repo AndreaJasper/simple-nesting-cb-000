@@ -60,7 +60,7 @@ def dennis_ritchies_language
         }
      }
 
-dennis_ritchie = programmer_hash[:dennis_ritchie][:languages].to_s
+dennis_ritchie = programmer_hash[:dennis_ritchie][:languages]
 
 end
 
