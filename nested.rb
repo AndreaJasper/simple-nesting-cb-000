@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-programmer_hash[0]
+programmer_hash.keys[0]
 
 end
 
